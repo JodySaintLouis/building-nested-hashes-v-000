@@ -10,7 +10,7 @@ epic_tragedy = {
 
      :capulet => {
        :patriarch => {}
-       :matriarch =>
+       :matriarch => {}
        :heroine =>
        :heroine_friends =>
                 }
