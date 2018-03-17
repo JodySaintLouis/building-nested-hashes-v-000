@@ -5,7 +5,7 @@ epic_tragedy = {
         :patriarch => {}
         :matriarch => {}
         :hero => {}
-        :hero_friends =>
+        :hero_friends => []
                   },
 
      :capulet => {
