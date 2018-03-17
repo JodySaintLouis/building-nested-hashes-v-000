@@ -17,7 +17,7 @@ epic_tragedy = {
        :matriarch => {name: "Lady Capulet", age: "51"}
        :heroine => {name: "Juliet", age: "15", status: "alive"}
        :heroine_friends => [
-         {name: ""}
+         {name: "Steven", age: "30", }
          {name: ""}
                           ]
                 }
