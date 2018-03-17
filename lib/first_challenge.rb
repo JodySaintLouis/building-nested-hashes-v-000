@@ -3,7 +3,7 @@ epic_tragedy = {
 
       :montague => {
         :patriarch => {name: "Lord Montague", age: "53"}
-        :matriarch => {}
+        :matriarch => {name: "Lady Monague", age: ""}
         :hero => {}
         :hero_friends => []
                   },
