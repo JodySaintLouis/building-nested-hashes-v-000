@@ -7,7 +7,7 @@ epic_tragedy = {
         :hero => {name: "Romeo", age: "15", status: "alive"}
         :hero_friends => [
           {name: "Benvolio", age: "17", attitude: "worried"}
-          {name: "Mercutio"}
+          {name: "Mercutio", age: "18"}
         ]
 
                   },
