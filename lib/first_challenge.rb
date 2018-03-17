@@ -9,7 +9,7 @@ epic_tragedy = {
                   },
 
      :capulet => {
-       :patriarch => {}
+       :patriarch => {name: "Lord Capulet"}
        :matriarch => {}
        :heroine => {}
        :heroine_friends => []
